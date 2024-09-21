@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/b97e93db-f61c-4f31-837f-c89bd170924a" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/b2cd2740-2612-468d-9b7e-9c09fe4a7a93" width="1000"/>
 </div>
 <div id="badges" align="center">
   <a href="https://stepik.org/users/472513762/profile">
@@ -16,7 +16,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2aa155f7-239e-459f-82d5-07f8d1688d23" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/b3055f40-1336-4770-a484-2789adc3899b"
+ width="1000"/>
 </div>
 
 ---
