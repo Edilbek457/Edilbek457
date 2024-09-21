@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/46a8b0d0-3b2f-4049-9219-e1a64ed50b00" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/b97e93db-f61c-4f31-837f-c89bd170924a" width="1000"/>
 </div>
 <div id="badges" align="center">
   <a href="https://stepik.org/users/472513762/profile">
