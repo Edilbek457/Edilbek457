@@ -46,6 +46,3 @@ I am a student :computer: from Kazakhstan :kazakhstan:.
 </div>
 
 ---
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edilbek457)](https://github.com/anuraghazra/github-readme-stats)
