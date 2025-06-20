@@ -15,11 +15,6 @@
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b3055f40-1336-4770-a484-2789adc3899b"
- width="1000"/>
-</div>
-
 ---
 
 
